@@ -1,0 +1,5 @@
+[project]
+name = "caves"
+version = "0.1.0"
+description = "generate random caves map (e.g: video game level layouts), using Cellular Automata algorithm."
+readme = "README.rst"
